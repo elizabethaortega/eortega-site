@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Sr. Statistical Analyst"
+  company = "SchoolsFirst Federal Credit Union"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Tustin, CA"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Statistical Consultant"
+  company = "CSU Long Beach"
   company_url = ""
-  location = "California"
+  location = "Long Beach, CA"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2016-07-01"
+  description = """Providing statistical assistance for students, faculty & staff, companies, government organizations, and the general public using SAS and R programming as well as Minitab and SPSS software."""
 
 +++
