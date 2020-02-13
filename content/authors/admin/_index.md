@@ -36,12 +36,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:elizabethaortega@gmail.com"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin-in
   icon_pack: fab
-  link: https://twitter.com/elizabethao9
+  link: https://www.linkedin.com/in/elizabethaortega/
 - icon: github
   icon_pack: fab
   link: https://github.com/elizabethaortega/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/elizabethao9
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -58,4 +61,4 @@ email: ""
 #- Visitors
 ---
 
-Elizabeth Ortega is a statistician with experience creating predictive models to drive business insights in R, SAS, SQL, and Python. 
+I am passionate about using statistical programming, data analysis, predictive modeling and data science to extract meaning from data. 
