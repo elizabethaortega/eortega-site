@@ -21,6 +21,12 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  description = "70%"
+  
+[[feature]]
   icon = "desktop"
   icon_pack = "fas"
   name = "SAS"
@@ -32,12 +38,7 @@ subtitle = ""
   name = "Python"
   description = "60%"
   
-  [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "70%"
-  
+
 
   
 
