@@ -39,10 +39,16 @@ subtitle = ""
   description = "70%"
   
 [[feature]]
-  icon = "database"
+  icon = "fa-database"
   icon_pack = "fab"
   name = "SQL"
   description = "60%"
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "fab"
+  name = "Tableau"
+  description = "70%"
 
   
 
