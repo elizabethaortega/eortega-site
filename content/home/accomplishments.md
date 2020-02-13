@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   date_start = "2019-10-01"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "SAS"
+  organization_url = "https://www.sas.com/en_us/home.html"
+  title = "Base SAS Certification"
+  url = ""
+  certificate_url = "https://www.youracclaim.com/badges/105d1c02-ad27-4319-b517-e5220a0dfe56/linked_in_profile"
+  date_start = "2016-06-01"
+  date_end = ""
+  description = ""
 
 #[[item]]
 #  organization = "DataCamp"
