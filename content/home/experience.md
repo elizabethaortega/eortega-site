@@ -18,17 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Sr. Statistical Data Analyst"
-  company = "SchoolsFirst Federal Credit Union"
+  title = "Data Scientist"
+  company = "UC Irvine"
   company_url = ""
-  location = "Tustin, CA"
-  date_start = "2019-10-01"
+  location = "Irvine, CA"
+  date_start = "2020-07-01"
   date_end = ""
   description = """
   Responsibilities include:
   
+  * Compiling and cleaning data using SQL, R
+  * Dashboards using Power BI
+  """
+[[experience]]
+  title = "Sr. Statistical Data Analyst"
+  company = "SchoolsFirst Federal Credit Union"
+  company_url = ""
+  location = "Tustin, CA"
+  date_start = "2016-10-01"
+  date_end = "2020-06-30"
+  description = """
+  Responsibilities include:
+  
   * Analysing
-  * Modelling
+  * Modeling
   * Deploying
   """
 
