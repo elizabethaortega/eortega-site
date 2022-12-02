@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist/Statistician           Based in San Diego, CA
+role: Data Scientist/Statistician           
+Based in San Diego, CA
 
 # Organizations/Affiliations
 #organizations:
