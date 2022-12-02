@@ -10,13 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist/Statistician           
+role: Data Scientist/Statistician  in San Diego, CA           
 
-
-# Organizations/Affiliations
-organizations:
-name: San Diego, CA
-#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a statistician with a love for data and finding insights to drive decisions and doing good. 
