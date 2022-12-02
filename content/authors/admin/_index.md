@@ -11,11 +11,11 @@ superuser: true
 
 # Role/position
 role: Data Scientist/Statistician           
-Based in San Diego, CA
+
 
 # Organizations/Affiliations
 #organizations:
-#- name: 
+ name: San Diego, CA
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
