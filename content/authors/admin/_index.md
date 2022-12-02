@@ -12,6 +12,8 @@ superuser: true
 # Role/position
 role: Statistician & Data Scientist
 
+Based in San Diego, CA
+
 # Organizations/Affiliations
 #organizations:
 #- name: 
