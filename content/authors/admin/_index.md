@@ -15,7 +15,7 @@ role: Data Scientist/Statistician
 
 # Organizations/Affiliations
 #organizations:
- name: San Diego, CA
+name: San Diego, CA
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
